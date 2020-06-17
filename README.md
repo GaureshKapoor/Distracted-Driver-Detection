@@ -1,0 +1,2 @@
+# Distracted-Driver-Detection
+Car accidents are in the rise recently and there should be more awareness among drivers. I plan to solve this by using Computer Vision to analyze whether a driver is distracted through Machine Learning. In order to put my solution into action, the process contains finding out whether or not they are distracted and how they are being distracted. The model makes use of a Convolutional Neural Network, Transfer Learning, and Tensorflow Keras to solve this particular problem.
